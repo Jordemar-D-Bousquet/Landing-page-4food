@@ -2,9 +2,10 @@
 Projeto desenvolvido em grupo e pensando em uma solução para a empresa fictícia "4food".
 ## Screenshot
 #### Desktop
-![App Screenshot](https://i.imgur.com/p553LZL.png)
+![image](https://user-images.githubusercontent.com/90051803/188290261-2c333f04-577a-4269-9b06-91e2135e247f.png)
 #### Mobile
 ![App Screenshot](https://i.imgur.com/boKQoiG.png)
+
 
 ## Acessar o site
 
